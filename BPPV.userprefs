@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/exit.cs">
+    <Files>
+      <File FileName="Assets/Scripts/gyroscope.cs" Line="21" Column="35" />
+      <File FileName="Assets/Scripts/start.cs" Line="12" Column="2" />
+      <File FileName="Assets/Scripts/epley.cs" Line="44" Column="22" />
+      <File FileName="Assets/Scripts/exit.cs" Line="12" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
